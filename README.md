@@ -6,9 +6,9 @@ Example:
 <html>
 <head>
 	<style type="text/css">
-		#button {position: absolute; width: 50px;height: 50px;background-color: red; transition: all 0.3s linear 0s}
-		.move {margin: 0 0 0 100px}
-		.box {position: relative; width: 50px; height: 50px; border: 1px solid #4c4c4c}
+	#button {position: absolute; width: 50px;height: 50px;background-color: red; transition: all 0.3s linear 0s}
+	.move {margin: 0 0 0 100px}
+	.box {position: relative; width: 50px; height: 50px; border: 1px solid #4c4c4c}
 	</style>
 	<title>ShakeIt</title>
 </head>
