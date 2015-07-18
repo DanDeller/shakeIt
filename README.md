@@ -3,6 +3,7 @@ A small plugin to add shake methods on elements.
 
 Example:
 
+```
 $('.box').on('click', function() {
 	$(this).shake({
 	  howMany: 2, // how many times we want the element to shake
