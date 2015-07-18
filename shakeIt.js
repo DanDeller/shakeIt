@@ -15,12 +15,10 @@
 		}, options);
 
 		this.each(function() {
-     	for (var x = 1; x <= options.howMany; x++) {
-        $(this).animate(options.animationDirection, 80).animate(options.originalPos, 80);
+	     		for (var x = 1; x <= options.howMany; x++) {
+	        		$(this).animate(options.animationDirection, 80).animate(options.originalPos, 80);
 			}
 		});
-
 		return this;
 	}
-
 }(jQuery));
