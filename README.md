@@ -3,7 +3,6 @@ A small plugin to add shake methods on elements.
 
 Example:
 
-<!DOCTYPE html>
 <html>
 <head>
 	<style type="text/css">
