@@ -4,7 +4,7 @@ A small plugin to add shake methods on elements.
 Example:
 
 ```
-$('.box').on('click', function() {
+$('element').on('click', function() {
 	$(this).shake({
 		howMany: 2,
 		animationDirection: {left: 20},
